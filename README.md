@@ -10,7 +10,7 @@ using buildroot.
 ### Using the Beaglebone Black as the base embedded computer module
 ### Other Hardware Modules:
 - GPS P/N: GPS6MV2 
-- RTC P/N: HW-111 which uses DS1307
+- RTC P/N: HW-111 which uses DS1307 or equivalate DS device
 - QR Code Reader P/N: SEN-35632
 - IO Expander P/N: MCP23017 which will read menu navigation buttons  
 - Temperature Sensor P/N: SHT31 
@@ -21,7 +21,9 @@ Current plan is not to use any Open Source Projects other than researching ie Go
 
 # Previously Discussed Content
 Will be using parts of aesdchar as a template to other drivers for the hardware modules.   
-Chapter 9 of the Linux Device Driver Book.  
+Linux System Programming for system programming reference.
+Masterin Embedded Linux Programming for the Beaglebone config.
+Linux Device Driver Book Chapter 1- 9.  
 Use the buildroot build scripts  
 
 # New Content
@@ -38,9 +40,9 @@ N/A no shared Material
 # Source Code Organization
 Buildroot Repository will be hosted at [TBD]
 
-Clint's Application code will be hosted in in a repository at (https://github.com/cu-ecen-aeld/final-project-0xBEE5-ClintFurrer.git)
+Clint's Application code will be hosted in in a repository at: https://github.com/cu-ecen-aeld/final-project-0xBEE5-ClintFurrer.git
 
-Ruben's Application code will be hosted in in a repository at
+Ruben's Application code will be hosted in in a repository at: 
 
 
 # Group Overview
