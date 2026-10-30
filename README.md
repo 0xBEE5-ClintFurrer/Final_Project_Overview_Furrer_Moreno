@@ -1,7 +1,7 @@
 # Overview
 Development of a Smart Watch which displays time and alarms. Alarms are set through QR codes read by the SEN_35632 code reader. Buttons for page/menu navigation. GPS diaplay for additional feature of watch. This will be spread bench hardware only.
 
-![alt text](<Untitled Diagram.drawio.png>)
+![alt text](FinalProjectBlockDiagram.drawio.png)
 # Target Build System
 using buildroot.
 
@@ -12,7 +12,8 @@ using buildroot.
 - GPS P/N: GPS6MV2 
 - RTC P/N: HW-111 which uses DS1307
 - QR Code Reader P/N: SEN-35632
-- IO Expander P/N: MCP23017 which will read menu navigation buttons   
+- IO Expander P/N: MCP23017 which will read menu navigation buttons  
+- Temperature Sensor P/N: SHT31 
 #### Note: all hardware the team has aquired. 
 
 # Open Source Projects Used
