@@ -38,7 +38,7 @@ Use the buildroot build scripts
 N/A no shared Material
 
 # Source Code Organization
-Buildroot Repository will be hosted at [TBD]
+Buildroot Repository will be hosted at https://github.com/0xBEE5-ClintFurrer/Final_Project_Buildroot_dev
 
 Clint's Application code will be hosted in in a repository at: https://github.com/cu-ecen-aeld/final-project-0xBEE5-ClintFurrer.git
 
