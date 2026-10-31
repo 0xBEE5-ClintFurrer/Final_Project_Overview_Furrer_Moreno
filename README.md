@@ -14,6 +14,7 @@ using buildroot.
 - QR Code Reader P/N: SEN-35632
 - IO Expander P/N: MCP23017 which will read menu navigation buttons  
 - Temperature Sensor P/N: SHT31 
+- LCD P/N: 1602A 16x2 character display
 #### Note: all hardware the team has aquired. 
 
 # Open Source Projects Used
