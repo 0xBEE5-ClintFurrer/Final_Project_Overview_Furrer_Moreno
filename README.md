@@ -43,7 +43,7 @@ Buildroot Repository will be hosted at https://github.com/0xBEE5-ClintFurrer/Fin
 Clint's Application code will be hosted in in a repository at: https://github.com/cu-ecen-aeld/final-project-0xBEE5-ClintFurrer.git
 
 Ruben's Application code will be hosted in in a repository at: 
-
+git@github.com:cu-ecen-aeld/final-project-rumo3998.git
 
 # Group Overview
 The development work will be divided into the following breakout.
