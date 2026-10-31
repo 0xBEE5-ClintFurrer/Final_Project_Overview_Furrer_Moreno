@@ -66,4 +66,4 @@ Ruben Moreno - Team Contributor
 
 
 # Schedule Page
-Link to shared schedule wiki page: https://github.com/rumo3998/final-project-assignment-Furrer_Moreno_SCHED
+https://github.com/users/rumo3998/projects/2/views/1?groupedBy%5BcolumnId%5D=436438420  
