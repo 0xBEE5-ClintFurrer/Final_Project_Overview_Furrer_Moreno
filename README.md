@@ -1,5 +1,6 @@
 # Overview
-Development of a Smart Watch which displays time and alarms. Alarms are set through QR codes read by the SEN_35632 code reader. Buttons for page/menu navigation. GPS diaplay for additional feature of watch. This will be spread bench hardware only.
+We are going to develop of a Smart Watch which displays time and alarms. Alarms are set through QR codes read by the SEN_35632 code reader. The device will have buttons for page and menu navigation. A GPS diaplay will be add as an additional feature of the watch. This will be spread bench hardware only.
+We want to explore different hardware modules, develop application code, and kernel driver code. Also, we want to make a base project to develop a watch which does not connect to any cloud server or cloud service.
 
 ![alt text](FinalProjectBlockDiagram.drawio.png)
 # Target Build System
@@ -14,6 +15,7 @@ using buildroot.
 - QR Code Reader P/N: SEN-35632
 - IO Expander P/N: MCP23017 which will read menu navigation buttons  
 - Temperature Sensor P/N: SHT31 
+- LCD P/N: 1602A 16x2 character display
 #### Note: all hardware the team has aquired. 
 
 # Open Source Projects Used
@@ -32,7 +34,7 @@ Use the buildroot build scripts
 - Device driver for I/O to drive the LCD display,  
 ### Content covered in class but not included in assignments:  
 - Blocking code in the kernel waiting on hardware device
-- Wall Clock Time???
+- Clock Real Time
 
 # Shared Material
 N/A no shared Material
